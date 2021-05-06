@@ -1,14 +1,24 @@
-### Hi there 👋
+## Hello, I'm Gilson
+Bachelor in Geography (**USP**) and Business student at **Unifesp**. Developer student at **Generation** focusing on **Java**. In love with cities and technology.
+
+
+
+---
+
+### I'm currently learning
+- Java
+- HTML
+- CSS
+---
+
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=gilsonmirandaj&count_private=true&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonmirandaj)](https://github.com/gilsonmirandaj/github-readme-stats)
+
+
+
+NOTE: These languages does not indicate essencially my skill level, it's a Github metric of which languages I most coded on the plataform.
 
 <!--
 **gilsonmirandaj/gilsonmirandaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gilsonmirandaj)
