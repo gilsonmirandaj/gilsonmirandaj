@@ -11,7 +11,7 @@ Bachelor in Geography (**USP**) and Business student at **Unifesp**. Developer s
 - CSS
 ---
 
-[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=gilsonmirandaj&count_private=true&show_icons=true&icon_color=2f80ed)](https://rampatra.com)
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=gilsonmirandaj&count_private=true&show_icons=true&icon_color=2f80ed)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonmirandaj)](https://github.com/gilsonmirandaj/github-readme-stats)
 
