@@ -17,7 +17,7 @@ Bachelor in Geography (**USP**) and Business student at **Unifesp**. Developer s
 
 
 
-NOTE: These languages does not indicate essencially my skill level, it's a Github metric of which languages I most coded on the plataform.
+These languages do not indicate my skill level correctly. It is a Github metric of which languages I most coded on the platform.
 
 <!--
 **gilsonmirandaj/gilsonmirandaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
