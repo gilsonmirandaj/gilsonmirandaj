@@ -6,9 +6,14 @@ Bachelor in Geography (**USP**) and Business student at **Unifesp**. Developer s
 ---
 
 ### I'm currently learning
-- Java
-- HTML
-- CSS
+
+
+<img align="left" alt="Java" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="65px" src="https://static.zodinet.com/wp-content/uploads/2020/11/23-237369_html5-and-css3-transparent-background-html-logo-hd.png" />
+
+<br>
+<br>
+
 ---
 
 ![Ram's github stats](https://github-readme-stats.vercel.app/api?username=gilsonmirandaj&count_private=true&show_icons=true&icon_color=2f80ed)
